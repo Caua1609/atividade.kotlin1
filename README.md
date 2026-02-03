@@ -8,3 +8,12 @@ fun main() {
     println(fahrenheit)
 }
 ```
+
+### Atividade 2
+```kotlin
+fun main() {
+    var fahrenheit = 77
+    var celsius = (fahrenheit - 32) * 5/9
+    println(celsius)
+}
+```
