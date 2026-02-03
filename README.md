@@ -17,3 +17,13 @@ fun main() {
     println(celsius)
 }
 ```
+
+### Atividade 3
+```kotlin
+fun main() {
+    var raio = 5
+    var altura = 10
+    var volume = 3.14 * raio * raio * altura
+    println(volume)
+}
+```
