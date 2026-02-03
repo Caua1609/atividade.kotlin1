@@ -59,3 +59,12 @@ fun main() {
     println(resultado)
 }
 ```
+
+### Atividade 7
+```kotlin
+fun main() {
+    var medida_pes = 20 
+    var metros = medida_pes * 0.3048
+    println(metros)
+}
+```
