@@ -134,3 +134,17 @@ fun main() {
     println(area)
 }
 ```
+
+### Atividade 13
+```kotlin
+fun main() {
+    var raio = 5 
+    var volume = (4/3) * 3.14 * raio * raio * raio 
+    println(volume)
+}
+```
+
+### Atividade 14
+```kotlin
+
+```
