@@ -206,5 +206,16 @@ fun main() {
 
 ### Atividade 17
 ```kotlin
+fun main() {
+    var numero = 20 
+    var multiplicaçao = numero * 2
+
+    println(multiplicaçao)
+}
+
+```
+
+### Atividade 18
+```kotlin
 
 ```
