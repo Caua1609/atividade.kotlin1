@@ -68,3 +68,15 @@ fun main() {
     println(metros)
 }
 ```
+
+### Atividade 8
+```kotlin
+fun main() {
+    var numero_inteiro = 5
+    var sucessor = 6 
+    var antecessor = 4
+    var resultado = "Antecessor: 4, Sucessor: 6"
+    println(resultado)
+}
+
+```
