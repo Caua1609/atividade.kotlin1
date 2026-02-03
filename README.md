@@ -161,3 +161,32 @@ fun main() {
 }
 
 ```
+
+### Atividade 15
+```kotlin
+fun main() {
+    var valor1 = 10
+    var valor2 = 5
+    var valor3 = 8
+    var valor4 = 12
+    var valor5 = 3 
+
+    var maior = valor1
+    var menor = valor1
+
+    if (valor2 > maior) maior = valor2
+    if (valor3 > maior) maior = valor3
+    if (valor4 > maior) maior = valor4
+    if (valor5 > maior) maior = valor5
+
+    if (valor2 < menor) menor = valor2
+    if (valor3 < menor) menor = valor3
+    if (valor4 < menor) menor = valor4
+    if (valor5 < menor) menor = valor5
+
+    var resultado = "Maior número: $maior\nMenor número: $menor"
+
+    println(resultado)
+}
+
+```
