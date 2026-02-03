@@ -113,3 +113,15 @@ fun main() {
 }
 
 ```
+
+### Atividade 11
+```kotlin
+fun main() {
+    var valor_dolar = 50
+    val cotaçao_dolar = 5.60
+    var converçao_real = valor_dolar * cotaçao_dolar
+
+    println(converçao_real)
+}
+
+```
