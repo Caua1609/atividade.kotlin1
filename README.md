@@ -190,3 +190,21 @@ fun main() {
 }
 
 ```
+
+### Atividade 16
+```kotlin
+fun main() {
+    var valor1 = 50 
+    var valor2 = 30 
+    var valor3 = 40 
+    var soma= valor1 + valor2 + valor3
+
+    println(soma)
+}
+
+```
+
+### Atividade 17
+```kotlin
+
+```
