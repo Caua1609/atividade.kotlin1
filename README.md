@@ -48,3 +48,14 @@ fun main() {
     println(valor)
 }
 ```
+
+### Atividade 6 
+```kotlin
+fun main() {
+    var base = 2
+    var expoente = 3
+    var resultado = base * base * base 
+    
+    println(resultado)
+}
+```
