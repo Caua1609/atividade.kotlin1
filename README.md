@@ -27,3 +27,13 @@ fun main() {
     println(volume)
 }
 ```
+
+### Atividade 4
+```kotlin
+fun main() {
+    var distancia = 240 
+    var consumo = 12 
+    var litro_combustivel = distancia / consumo
+    println(litro_combustivel)
+}
+```
