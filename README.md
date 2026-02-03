@@ -37,3 +37,14 @@ fun main() {
     println(litro_combustivel)
 }
 ```
+
+### Atividade 5
+```kotlin
+fun main() {
+    var valor_original = 1000 
+    var meses_atraso = 3
+    var taxa_juros = 1
+    var valor = valor_original * (1 + (taxa_juros / 100) * meses_atraso)
+    println(valor)
+}
+```
