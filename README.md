@@ -125,3 +125,12 @@ fun main() {
 }
 
 ```
+
+### Atividade 12 
+```kotlin
+fun main() {
+    var raio = 5 
+    var area = 3.14 * raio * raio
+    println(area)
+}
+```
