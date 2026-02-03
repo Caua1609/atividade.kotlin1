@@ -80,3 +80,14 @@ fun main() {
 }
 
 ```
+
+### Atividade 9
+```kotlin
+fun main() {
+    var numero_inteiro1 = 10
+    var numero_inteiro2 = 5 
+    var diferença = numero_inteiro1 - numero_inteiro2
+    println(diferença)
+}
+
+```
