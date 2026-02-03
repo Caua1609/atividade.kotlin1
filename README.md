@@ -91,3 +91,25 @@ fun main() {
 }
 
 ```
+
+### Atividade 10
+```kotlin
+fun main() {
+    var valor1 = 10 
+    var valor2 = 5 
+
+    var multiplicacao = valor1 * valor2
+    var divisao = valor1 / valor2
+    var soma = valor1 + valor2
+    var subtracao = valor1 - valor2
+
+    var resultado = 
+        "Multiplicação: $multiplicacao\n" +
+        "Divisão: $divisao\n" +
+        "Soma: $soma\n" +
+        "Subtração: $subtracao"
+
+    println(resultado)
+}
+
+```
