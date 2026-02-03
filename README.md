@@ -146,5 +146,18 @@ fun main() {
 
 ### Atividade 14
 ```kotlin
+fun main() {
+    val a = 1.0
+    val b = -3.0
+    val c = -4.0
+
+    val delta = b * b - 4 * a * c
+
+    val x1 = (-b + Math.sqrt(delta)) / (2 * a)
+    val x2 = (-b - Math.sqrt(delta)) / (2 * a)
+
+    println("x1 = $x1")
+    println("x2 = $x2")
+}
 
 ```
